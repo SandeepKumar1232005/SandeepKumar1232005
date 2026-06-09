@@ -100,13 +100,13 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### 📰 Paperly
-> AI-powered document intelligence platform
+### 📚 Paperly
+> Student-writer assignment marketplace platform
 
-- 🔍 Smart PDF analysis & Q&A using LLMs
-- 📄 Intelligent content extraction and summarization
-- 🧠 Powered by LangChain & advanced NLP pipelines
-- ⚡ Fast, accurate, and user-friendly interface
+- 👨‍🎓 Connects students with writers via role-based flows
+- 💳 Stripe payment gateway for secure transactions
+- 🤖 Google Gemini AI integration in the backend
+- 🗺️ Location-based writer discovery with glassmorphism UI
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/SandeepKumar1232005/Paperly)
 

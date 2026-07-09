@@ -2,7 +2,7 @@
 
 <!-- ████████████████████████████ HERO HEADER ████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0010,25:1a0040,50:2d0060,75:1a0040,100:0a0010&height=320&section=header&text=SANDEEP%20KUMAR&fontSize=82&fontColor=E9D5FF&fontAlignY=48&desc=AI%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20CSE%20%2726&descAlignY=68&descSize=20&animation=twinkling&stroke=9333ea&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0010,25:1a0040,50:2d0060,75:1a0040,100:0a0010&height=320&section=header&text=SANDEEP%20KUMAR&fontSize=82&fontColor=E9D5FF&fontAlignY=48&desc=AI%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20CSE%20%2727&descAlignY=68&descSize=20&animation=twinkling&stroke=9333ea&strokeWidth=3" width="100%"/>
 
 <br/>
 

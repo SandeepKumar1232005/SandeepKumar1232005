@@ -45,7 +45,7 @@ class SandeepKumar:
     def __init__(self):
         self.name        = "Sandeep Kumar J"
         self.role        = ["AI Developer", "Full Stack Engineer"]
-        self.education   = "B.E. Computer Science · CSE '27"
+        self.education   = "B.E. Computer Science 
         self.location    = "Tamil Nadu, India 🇮🇳"
         self.tech_stack  = {
             "frontend"  : ["React 19", "TypeScript", "Tailwind"],
